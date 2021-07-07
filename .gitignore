@@ -1,0 +1,5 @@
+# Blank gitignore at root level for RectangularHyperbola consists of 2 nested .gitignore files as mentioned below .... 
+
+# CppRectangularHyperbola has the VC++ Win32 specific gitignore.
+
+# JRectangularHyperbola has the Java Maven GUI based Application's gitignore.
