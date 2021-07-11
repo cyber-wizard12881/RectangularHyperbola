@@ -47,7 +47,7 @@ In Java:
 4. Added Java2Win Class for the native MessageBox Invoker Method Signature.
 
 In JNI:
-1. Generated the Header File using ```java -h``` command.
+1. Generated the Header File using ```javac -h``` command.
 
 In VC+++:
 1. Created a VC++ Win32 Desktop Blank Project in Visual Studio 2019 Community Edition.
